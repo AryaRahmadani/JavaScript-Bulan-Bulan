@@ -24,104 +24,104 @@ console.log(c);
 // }
 
 let bulan =12;
-let tanggal=31;
+let tanggal=1;
 let Bulan="Belum di buat";
 
 if(bulan==1){
     if(tanggal>0 && tanggal<20){
-        bulan="jawir";
+        Bulan="jawir";
     }
     if(tanggal>19 && tanggal<31){
-        bulan="Ustad";
+        Bulan="Ustad";
     }
 }
 if(bulan==2){
     if(tanggal>0 && tanggal<15){
-        bulan="gen cina";
+        Bulan="gen cina";
     }
     if(tanggal>15 && tanggal<30){
-        bulan="Uzumaki";
+        Bulan="Uzumaki";
     }
 }
 if(bulan==3){
     if(tanggal>0 && tanggal<19){
-        bulan="Uciha"
+        Bulan="Uciha"
     }
     if(tanggal>19 && tanggal<30){
-        bulan="Katrina"
+        Bulan="Katrina"
     }
 }
 if(bulan==4){
     if(tanggal>0 && tanggal<13){
-        bulan="Akatsuki";
+        Bulan="Akatsuki";
     }
     if(tanggal>13 && tanggal<30){
-        bulan="Member Suki";
+        Bulan="Member Suki";
     }
 }
 if(bulan==5){
     if(tanggal>0 && tanggal<18){
-        bulan="Ectomorph";
+        Bulan="Ectomorph";
     }
     if(tanggal>18 && tanggal<30){
-        bulan="Oktomorph";
+        Bulan="Oktomorph";
     }
 }
 if(bulan==6){
     if(tanggal>0 && tanggal<11){
-        bulan="Gita";
+        Bulan="Gita";
     }
     if(tanggal>11 && tanggal<31){
-        bulan="Azizi";
+        Bulan="Azizi";
     }
 }
 if(bulan==7){
     if(tanggal>0 && tanggal<17){
-        bulan="Zee";
+        Bulan="Zee";
     }
     if(tanggal>17 && tanggal<30){
-        bulan="Shania";
+        Bulan="Shania";
     }
 }
 if(bulan==8){
     if(tanggal>0 && tanggal>18){
-        bulan="Jesslyn";
+        Bulan="Jesslyn";
     }
     if(tanggal>18   && tanggal<30){
-        bulan="Freya";
+        Bulan="Freya";
     }
 }
 if(bulan==9){
     if(tanggal>0 && tanggal<12){
-        bulan="Gabriel";
+        Bulan="Gabriel";
     }
     if(tanggal>12 && tanggal<31){
-        bulan="raja ";
+        Bulan="raja ";
     }
 }
 if(bulan==10){
     if(tanggal>0 && tanggal<13){
-        bulan="alat";
+        Bulan="alat";
     }
     if(tanggal>13 && tanggal<30){
-        bulan="Raja Iblis";
+        Bulan="Raja Iblis";
     }
 }
 if(bulan==11){
     if(tanggal>0 && tanggal<14){
-        bulan="Kroco";
+        Bulan="Kroco";
     }
     if(tanggal>14 && tanggal<31){
-        bulan="setboy";
+        Bulan="setboy";
     }
 }
 if(bulan==12){
     if(tanggal>0 && tanggal<15){
-        bulan="batbuy";
+        Bulan="batbuy";
     }
     if(tanggal>15 && tanggal<30){
-        bulan="batman";
+        Bulan="batman";
     }
 }
-console.log(bulan);
+console.log(Bulan);
 
